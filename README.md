@@ -31,10 +31,10 @@ HFFM/
 │
 ├── datasets/
 │   ├── dataset_generator_*.py   # Scripts to generate balanced datasets
-│   ├── *_vocab_balanced.py      # Balanced vocab files for tasks (ART, GQA, VizWiz)
+│   ├── *_vocab_balanced.py      # Balanced vocab files for tasks (GQA, VizWiz)
 │
 ├── methods/
-│   ├── main_ffm.py        # Entry point for hierarchical FL
+│   ├── main_ffm.py        # Entry point for ffm
 │   ├── main_local.py            # Entry point for local-only training
 │   ├── table_generator.py       # Summarize evaluation metrics
 │   └── results/                 # Folder to store results and logs
