@@ -77,7 +77,7 @@ python datasets/vizwiz_vocab_balanced.py
 python methods/main_local.py
 ```
 
-#### Hierarchical FL (e.g., HF-FM):
+#### M3T FFL:
 ```bash
 python methods/main_ffm.py
 ```
