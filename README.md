@@ -49,7 +49,7 @@ git clone https://github.com/payamsiabd/M3T-FFM-EmbodiedAI.git
 ### 1. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 Ensure PyTorch with GPU support is installed and datasets are available locally.
